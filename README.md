@@ -22,6 +22,3 @@ The game tests memory skills by asking the player to repeat an increasingly comp
 - **CSS3**  
 - **JavaScript (ES6)**  
 
----
-
-## 📂 Repository Structure
