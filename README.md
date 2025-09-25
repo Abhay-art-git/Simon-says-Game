@@ -21,4 +21,9 @@ The game tests memory skills by asking the player to repeat an increasingly comp
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (ES6)**  
+---
 
+## ⚙️ How to Run
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/simon-says-game.git
